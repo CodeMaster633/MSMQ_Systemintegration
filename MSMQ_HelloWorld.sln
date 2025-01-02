@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L08_Request_Reply", "L08_Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L09_MessageConstruction", "L09_MessageConstruction\L09_MessageConstruction.csproj", "{6494D388-0F2C-463C-A6AD-81CA1CA921FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_Message_Transformation", "L13_Message_Transformation\L13_Message_Transformation.csproj", "{80ACC8A3-958D-45D9-A250-187A473B4391}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L13_Message_Transformation", "L13_Message_Transformation\L13_Message_Transformation.csproj", "{80ACC8A3-958D-45D9-A250-187A473B4391}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WeatherForecast", "WeatherForecast", "{BDFA303D-7D49-4A67-971F-7FFBBBB9E02C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingProgram", "TilmeldAktivitet\BookingProgram.csproj", "{92D554B8-DC1C-4363-9FD6-57888AC465E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslateTilNyhedsbrev", "TranslateTilNyhedsbrev\TranslateTilNyhedsbrev.csproj", "{BA2A98B4-C4CE-4EA8-A50D-0F9C4B9DD8DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,14 @@ Global
 		{80ACC8A3-958D-45D9-A250-187A473B4391}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80ACC8A3-958D-45D9-A250-187A473B4391}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80ACC8A3-958D-45D9-A250-187A473B4391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D554B8-DC1C-4363-9FD6-57888AC465E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D554B8-DC1C-4363-9FD6-57888AC465E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D554B8-DC1C-4363-9FD6-57888AC465E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D554B8-DC1C-4363-9FD6-57888AC465E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2A98B4-C4CE-4EA8-A50D-0F9C4B9DD8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2A98B4-C4CE-4EA8-A50D-0F9C4B9DD8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2A98B4-C4CE-4EA8-A50D-0F9C4B9DD8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2A98B4-C4CE-4EA8-A50D-0F9C4B9DD8DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
